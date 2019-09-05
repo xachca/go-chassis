@@ -38,5 +38,5 @@ replace (
 	golang.org/x/text v0.3.0 => github.com/golang/text v0.3.0
 	golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2 => github.com/golang/time v0.0.0-20180412165947-fbb02b2291d2
 	google.golang.org/genproto v0.0.0-20180817151627-c66870c02cf8 => github.com/google/go-genproto v0.0.0-20180817151627-c66870c02cf8
-	github.com/emicklei/go-restful v2.8.0+incompatible => github.com/ShiningRush/go-restful v0.0.0-20190905074444-24b867eb8baa
+	github.com/emicklei/go-restful v2.8.0+incompatible => github.com/ShiningRush/go-restful v0.0.0-20190905074444-32a2a2953818
 )
